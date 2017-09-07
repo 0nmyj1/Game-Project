@@ -1,2 +1,6 @@
 # Game-Project
-You: Not sure yet. . .
+You: Not sure yet. . 
+
+STATUS REPORT: GIT ALL WIRED UP.
+
+You: Yay..
